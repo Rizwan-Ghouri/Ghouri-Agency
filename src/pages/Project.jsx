@@ -19,6 +19,7 @@ export default function Project() {
                 </div>
                 <div className="lg:m-2 lg:w-2/5 lg:border-2 lg:rounded-xl lg:px-5 lg:py-5 md:w-3/4 md:block md:p-5 md:m-20 md:border-2 sm:w-3/4 sm:block sm:p-6 sm:m-16 sm:border-2 min-[300px]:w-2/4 max-[300px]:border-2 min-[300px]:m-20" >
                     <img className=" w-full h-52 rounded-md" src="/at.png"/>
+                    <h1 className="p-1 text-2xl text-yellow-500">All Task</h1>
                     <p className="my-5">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat labore incidunt rem voluptatem, veniam accusamus facere! Veniam dignissimos deserunt, explicabo numquam distinctio ad harum facilis architecto. Magnam nostrum quasi labore.</p>
                     <Link className="w-28 p-1 text-xl rounded-xl bg-yellow-500" to={"https://all-task-one.vercel.app"} target="_blank">Demo</Link>
                 </div>

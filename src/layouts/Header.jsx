@@ -37,7 +37,7 @@ export default function Header() {
             <nav className="flex items-center justify-between flex-wrap">
                 <div className="w-auto pl-4">
                     <Link to={"/"}>
-                        <img className="w-[80px] rounded-full" src="src/image/Ghouri.png" alt="Ghouri Agency" />
+                        <img className="w-[80px] rounded-full" src="/Ghouri.png" alt="Ghouri Agency" />
                     </Link>
                 </div>
 

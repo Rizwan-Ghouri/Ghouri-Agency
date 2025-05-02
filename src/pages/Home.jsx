@@ -37,7 +37,7 @@ export default function Home() {
                 <section className="flex flex-col lg:flex-row text-white bg-transparent p-1">
                     {/* Image Section */}
                     <div className="lg:w-3/5 w-full flex justify-center items-center">
-                        <img className="w-[50%] h-[70%] rounded-full" src="../src/image/Ghouri.png" alt="Ghouri Agency" />
+                        <img className="w-[50%] h-[70%] rounded-full" src="/Ghouri.png" alt="Ghouri Agency" />
                     </div>
                     {/* Text Section */}
                     <div className="lg:w-3/5 w-full p-7 my-10">
